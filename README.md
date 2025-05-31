@@ -69,9 +69,3 @@ npm run dev
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
-
-## İletişim
-
-Proje Sahibi - [@twitter_handle](https://twitter.com/twitter_handle)
-
-Proje Linki: [https://github.com/kullaniciadi/film-project](https://github.com/kullaniciadi/film-project)
